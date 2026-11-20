@@ -1,0 +1,46 @@
+# Executáveis e binários
+*.exe
+*.out
+*.app
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# Arquivos de debug / build
+*.pdb
+*.ilk
+*.exp
+*.d
+build/
+bin/
+Debug/
+Release/
+cmake-build-*/
+
+# IDEs e editores
+.vscode/
+.idea/
+*.code-workspace
+*.cbp
+*.layout
+*.depend
+.vs/
+
+# Java (caso use o esqueleto Grafo.java)
+*.class
+*.jar
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arquivos temporários
+*.tmp
+*.log
+*.swp
+*~
